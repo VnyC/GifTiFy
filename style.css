@@ -1,0 +1,53 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	font-family: 'Cedarville cursive', fantasy;
+	background: url("https://www.abc.net.au/news/image/11679108-3x2-940x627.jpg") no-repeat center center fixed;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+h1{
+	font-family: cursive;
+	font-weight: bold;
+	color: white;
+}
+
+
+.d-flex{
+	justify-content: center;
+}
+
+hr{
+	max-width: 65px;
+	background-color: white;
+	border-width: 2px;
+}
+
+.buffer{
+	height: 9rem;
+}
+
+.btn{
+	font-weight: 700;
+	border-radius: 15px}
+
+.btn-primar{
+	background-color: #bab9c1;
+	border-color: #bab9c1;
+}
+
+.btn-primar:hover{
+	background-color: #bab9c1;
+	border-color: #bab9c1;
+	border-width: 4px;
+}
+
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
